@@ -1,0 +1,6 @@
+This is
+a Dummy Data.
+We are learning File handling
+in python
+
+Let's learn python
